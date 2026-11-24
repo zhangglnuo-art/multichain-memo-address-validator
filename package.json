@@ -1,0 +1,26 @@
+{
+  "name": "multichain-memo-address-validator",
+  "version": "1.0.0",
+  "description": "Zero-dependency multichain cryptocurrency address format, checksum, mandatory Memo/Destination Tag, and address-poisoning validator across 46+ blockchains.",
+  "main": "index.js",
+  "bin": {
+    "multichain-address-validator": "./index.js"
+  },
+  "homepage": "https://allswap.io/tools/address-validator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangglnuo-art/multichain-memo-address-validator.git"
+  },
+  "keywords": [
+    "crypto",
+    "address-validator",
+    "blockchain",
+    "multichain",
+    "memo",
+    "destination-tag",
+    "address-poisoning",
+    "allswap"
+  ],
+  "author": "AllSwap Engineering (https://allswap.io)",
+  "license": "MIT"
+}
