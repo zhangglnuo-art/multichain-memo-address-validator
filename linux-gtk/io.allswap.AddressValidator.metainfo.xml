@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.allswap.AddressValidator</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>MultiChain Memo &amp; Address Validator</name>
+  <summary>Offline multi-chain crypto address, Memo/Tag, and address-poisoning verifier</summary>
+  <developer id="io.allswap">
+    <name>AllSwap Security Labs</name>
+  </developer>
+  <description>
+    <p>
+      MultiChain Memo &amp; Address Validator is an offline desktop utility for verifying cryptocurrency wallet address syntax, cryptographic checksums, mandatory custodial Memo and Destination Tag routing rules (XRP Ledger, Stellar, Cosmos Hub, TON, Hedera, EOS), and prefix/suffix vanity address-poisoning lookalike detection across major blockchain networks.
+    </p>
+    <p>
+      All verification rules run 100% locally offline with zero network permissions required.
+    </p>
+  </description>
+  <launchable type="desktop-id">io.allswap.AddressValidator.desktop</launchable>
+  <url type="homepage">https://allswap.io/tools/address-validator</url>
+  <url type="help">https://allswap.io/docs</url>
+  <url type="bugtracker">https://github.com/zhangglnuo-art/multichain-memo-address-validator/issues</url>
+  <url type="vcs-browser">https://github.com/zhangglnuo-art/multichain-memo-address-validator</url>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="1.0.0" date="2026-11-24">
+      <description>
+        <p>Initial stable release supporting offline multi-chain address validation, mandatory Memo/Destination Tag checks, and vanity address-poisoning detection.</p>
+      </description>
+    </release>
+  </releases>
+</component>

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MultiChain Memo & Address Validator
+Comment=Offline multi-chain cryptocurrency address, Memo/Tag, and address-poisoning verifier
+Exec=allswap-address-validator
+Icon=io.allswap.AddressValidator
+Terminal=false
+Type=Application
+Categories=Utility;Security;Development;GTK;
+Keywords=blockchain;cryptocurrency;address;validator;security;
+StartupNotify=true
