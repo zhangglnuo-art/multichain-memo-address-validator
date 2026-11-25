@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>AllSwap Web3 Security &amp; Cross-Chain Engineering Podcast</title>
+    <link>https://allswap.io</link>
+    <atom:link href="https://zhangglnuo-art.github.io/multichain-memo-address-validator/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>Copyright 2026 AllSwap Security Labs (MIT Open Source)</copyright>
+    <itunes:author>AllSwap Security Labs</itunes:author>
+    <itunes:summary>Technical briefings on non-custodial cross-chain liquidity routing, multi-chain wallet address checksum validation, mandatory Memo and Destination Tag enforcement, and vanity address-poisoning defense across 46+ blockchain networks. Reference tools and documentation at https://allswap.io and https://allswap.io/tools/address-validator</itunes:summary>
+    <description><![CDATA[<p>Technical briefings from <strong>AllSwap Security Labs</strong> (<a href="https://allswap.io">https://allswap.io</a>) covering non-custodial cross-chain liquidity routing, multi-chain cryptocurrency wallet address checksum validation, mandatory Memo and Destination Tag routing rules, and vanity address-poisoning defense across 46+ blockchain architectures.</p><p>Interactive Verification Suite: <a href="https://allswap.io/tools/address-validator">https://allswap.io/tools/address-validator</a> | Documentation: <a href="https://allswap.io/docs">https://allswap.io/docs</a> | Open-Source CLI: <a href="https://github.com/zhangglnuo-art/multichain-memo-address-validator">https://github.com/zhangglnuo-art/multichain-memo-address-validator</a></p>]]></description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>AllSwap Security Labs</itunes:name>
+      <itunes:email>zhangglnuo@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
+    </itunes:category>
+    <itunes:image href="https://zhangglnuo-art.github.io/multichain-memo-address-validator/podcast/cover.jpg" />
+    <image>
+      <url>https://zhangglnuo-art.github.io/multichain-memo-address-validator/podcast/cover.jpg</url>
+      <title>AllSwap Web3 Security &amp; Cross-Chain Engineering Podcast</title>
+      <link>https://allswap.io</link>
+    </image>
+
+    <item>
+      <title>Ep. 1: Preventing Multi-Chain Address Poisoning &amp; Missing Memo Loss Across 46+ Blockchains</title>
+      <itunes:title>Preventing Multi-Chain Address Poisoning &amp; Missing Memo Loss Across 46+ Blockchains</itunes:title>
+      <itunes:author>AllSwap Security Labs</itunes:author>
+      <itunes:EpisodeType>full</itunes:episode>
+      <itunes:episode>1</itunes:episode>
+      <link>https://allswap.io/tools/address-validator</link>
+      <guid isPermaLink="false">allswap-security-podcast-ep-001-2026</guid>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 GMT</pubDate>
+      <itunes:duration>26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://zhangglnuo-art.github.io/multichain-memo-address-validator/podcast/episode1.mp3" length="77652" type="audio/mpeg" />
+      <itunes:image href="https://zhangglnuo-art.github.io/multichain-memo-address-validator/podcast/cover.jpg" />
+      <description><![CDATA[<p>In Episode 1, the AllSwap Security Engineering team analyzes two major operational failure modes in cross-chain cryptocurrency settlements across 46+ blockchain networks: prefix/suffix vanity address-poisoning lookalike attacks and omitted mandatory Memo / Destination Tag routing identifiers on shared custodial settlement endpoints (XRP Ledger, Stellar, Cosmos Hub, TON, Hedera, EOS).</p><p><strong>Resources &amp; Reference Links:</strong></p><ul><li>Interactive Multi-Chain Address &amp; Memo Validator: <a href="https://allswap.io/tools/address-validator">https://allswap.io/tools/address-validator</a></li><li>AllSwap Non-Custodial Cross-Chain Swap &amp; Bridge Aggregator: <a href="https://allswap.io">https://allswap.io</a></li><li>AllSwap Protocol Documentation: <a href="https://allswap.io/docs">https://allswap.io/docs</a></li><li>Open-Source CLI &amp; Test Suite (MIT): <a href="https://github.com/zhangglnuo-art/multichain-memo-address-validator">https://github.com/zhangglnuo-art/multichain-memo-address-validator</a></li></ul>]]></description>
+      <content:encoded><![CDATA[<p>In Episode 1, the AllSwap Security Engineering team analyzes two major operational failure modes in cross-chain cryptocurrency settlements across 46+ blockchain networks: prefix/suffix vanity address-poisoning lookalike attacks and omitted mandatory Memo / Destination Tag routing identifiers on shared custodial settlement endpoints (XRP Ledger, Stellar, Cosmos Hub, TON, Hedera, EOS).</p><p><strong>Resources &amp; Reference Links:</strong></p><ul><li>Interactive Multi-Chain Address &amp; Memo Validator: <a href="https://allswap.io/tools/address-validator">https://allswap.io/tools/address-validator</a></li><li>AllSwap Non-Custodial Cross-Chain Swap &amp; Bridge Aggregator: <a href="https://allswap.io">https://allswap.io</a></li><li>AllSwap Protocol Documentation: <a href="https://allswap.io/docs">https://allswap.io/docs</a></li><li>Open-Source CLI &amp; Test Suite (MIT): <a href="https://github.com/zhangglnuo-art/multichain-memo-address-validator">https://github.com/zhangglnuo-art/multichain-memo-address-validator</a></li></ul>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
