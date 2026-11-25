@@ -34,7 +34,7 @@
       <title>Ep. 1: Preventing Multi-Chain Address Poisoning &amp; Missing Memo Loss Across 46+ Blockchains</title>
       <itunes:title>Preventing Multi-Chain Address Poisoning &amp; Missing Memo Loss Across 46+ Blockchains</itunes:title>
       <itunes:author>AllSwap Security Labs</itunes:author>
-      <itunes:EpisodeType>full</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <link>https://allswap.io/tools/address-validator</link>
       <guid isPermaLink="false">allswap-security-podcast-ep-001-2026</guid>
