@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Zero-dependency multichain cryptocurrency address format, checksum, mandatory Memo/Destination Tag, and address-poisoning validator across 46+ blockchains.",
   "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./valibot": "./valibot/index.ts"
+  },
   "bin": {
     "multichain-address-validator": "./index.js"
   },
@@ -19,8 +23,17 @@
     "memo",
     "destination-tag",
     "address-poisoning",
+    "valibot",
     "allswap"
   ],
+  "peerDependencies": {
+    "valibot": ">=1.0.0"
+  },
+  "peerDependenciesMeta": {
+    "valibot": {
+      "optional": true
+    }
+  },
   "author": "AllSwap Engineering (https://allswap.io)",
   "license": "MIT"
 }
